@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Gundu</h1>
-<h3 align="center">Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Models (LLM)a</h3>
+<h3 align="center">Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Model's (LLM's)</h3>
 
 - [**Issue-Categorization**](https://github.com/Pranay5519/Issue-Categorization)
   

@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Gundu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- Issue-Categorization [Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to handle multiple labels, applied noise removal for data cleaning. Conducted EDA for insights, enhancing model selection, and significantly boosting accuracy and efficiency in issue categorization.](https://github.com/Pranay5519/Issue-Categorization)
+- Issue-Categorization
+  Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to handle multiple labels, applied noise removal for data cleaning. Conducted EDA for insights, enhancing model selection, and significantly boosting accuracy and efficiency in issue categorization
+  (https://github.com/Pranay5519/Issue-Categorization)
 
 - Customer Churn Prediction [Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based on F1 score, optimized hyperparameters for superior predictions.](https://github.com/Pranay5519/Customer-Churn-Prediction)
 

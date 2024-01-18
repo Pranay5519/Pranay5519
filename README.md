@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm Pranay Gundu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- Issue-Categorization
+- **Issue-Categorization**
+
+  
   Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to handle multiple labels, applied noise removal for data cleaning. Conducted EDA for insights, enhancing model selection, and significantly boosting accuracy and efficiency in issue categorization
-  (https://github.com/Pranay5519/Issue-Categorization)
 
-- Customer Churn Prediction [Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based on F1 score, optimized hyperparameters for superior predictions.](https://github.com/Pranay5519/Customer-Churn-Prediction)
+https://github.com/Pranay5519/Issue-Categorization
 
-- Hyderabad House Price Prediction and Recommendation [Led a comprehensive data collection and data science project focused on Hyderabad house prices on 99acres  Developed a Streamlit web app featuring a machine learning-based Price Predictor, Analytics section, and a Recommendation System  The all-in-one tool provides a powerful solution for real estate data analysis and informed decisionmaking in the Hyderabad housing market](https://github.com/Pranay5519/Hyderabad-Real-Estate)
+**- Customer Churn Prediction**
+
+[Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based on F1 score, optimized hyperparameters for superior predictions.
+
+https://github.com/Pranay5519/Customer-Churn-Prediction
+
+**- Hyderabad House Price Prediction and Recommendation** 
+
+Led a comprehensive data collection and data science project focused on Hyderabad house prices on 99acres  Developed a Streamlit web app featuring a machine learning-based Price Predictor, Analytics section, and a Recommendation System  The all-in-one tool provides a powerful solution for real estate data analysis and informed decisionmaking in the Hyderabad housing market
+
+https://github.com/Pranay5519/Hyderabad-Real-Estate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
   Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature     
   selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based   on F1 score, optimized hyperparameters for superior predictions.
 
-- [**Hyderabad House Price Prediction and Recommendation**](https://github.com/Pranay5519/Hyderabad-Real-Estate)
+- [**Hyderabad House Price Prediction and Recommendation**](https://github.com/Pranay5519/H_real_estate)
 
   Led a comprehensive data collection and data science project focused on Hyderabad house prices on 99acres  Developed a      Streamlit web app featuring a machine learning-based Price Predictor, Analytics section, and a Recommendation System  
   The all-in-one tool provides a powerful solution for real estate data analysis and informed decisionmaking in the     

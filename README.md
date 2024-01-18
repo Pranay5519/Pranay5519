@@ -2,19 +2,20 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 - [**Issue-Categorization**](https://github.com/Pranay5519/Issue-Categorization)
-
   
-  Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to handle multiple labels, applied noise removal for data cleaning. Conducted EDA for insights, enhancing model selection, and significantly boosting accuracy and efficiency in issue categorization
+  Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to   
+  handle multiple labels, applied noise removal for data cleaning. Conducted EDA for insights, enhancing model selection,      and significantly boosting accuracy and efficiency in issue categorization
  
-
 - [**Customer Churn Prediction**](https://github.com/Pranay5519/Customer-Churn-Prediction) 
 
-Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based on F1 score, optimized hyperparameters for superior predictions.
-
+  Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature     
+  selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based   on F1 score, optimized hyperparameters for superior predictions.
 
 - [**Hyderabad House Price Prediction and Recommendation**](https://github.com/Pranay5519/Hyderabad-Real-Estate)
 
-Led a comprehensive data collection and data science project focused on Hyderabad house prices on 99acres  Developed a Streamlit web app featuring a machine learning-based Price Predictor, Analytics section, and a Recommendation System  The all-in-one tool provides a powerful solution for real estate data analysis and informed decisionmaking in the Hyderabad housing market
+  Led a comprehensive data collection and data science project focused on Hyderabad house prices on 99acres  Developed a      Streamlit web app featuring a machine learning-based Price Predictor, Analytics section, and a Recommendation System  
+  The all-in-one tool provides a powerful solution for real estate data analysis and informed decisionmaking in the     
+  Hyderabad housing market
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

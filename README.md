@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranay Gundu</h1>
 <h3 align="center">Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Model's (LLM's)</h3>
 
+<h2>Projects</h2>
+
 - [**Issue-Categorization**](https://github.com/Pranay5519/Issue-Categorization)
   
   Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to   

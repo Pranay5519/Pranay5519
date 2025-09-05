@@ -1,55 +1,74 @@
-<h1 align="center">Hi 👋, I'm Pranay Gundu</h1>
-<h3 align="center">Data Science & AI | Machine Learning | NLP | LLMs</h3>
+<!-- Futuristic AI-themed README -->
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/xjQ4R8H/ai-banner.gif" alt="AI Banner" width="100%" />
+</p>
+
+<h1 align="center">🤖 Hey, I'm <span style="color:#00f5ff;">Pranay Gundu</span></h1>
+<h3 align="center">Data Science • Machine Learning • NLP • LLMs</h3>
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me  
+- 🚀 Passionate about **Artificial Intelligence & Machine Learning**  
+- 📝 Skilled in **NLP, LLMs, Computer Vision, and Predictive Modeling**  
+- 🌐 Exploring **MLOps & AI-powered applications**  
+- 🎯 Goal: Building impactful **AI solutions for real-world problems**  
 
-- [**Issue-Categorization**](https://github.com/Pranay5519/Issue-Categorization)  
-  Multi-label classification for customer support. Used **Label Powerset**, noise removal, and EDA for better accuracy.
+---
 
-- [**Customer Churn Prediction**](https://github.com/Pranay5519/Customer-Churn-Prediction)  
-  Applied **SMOTE** for imbalance, tested Random Forest, Logistic Regression & ensemble methods. Optimized with F1 score.
+## 🚀 Featured Projects
 
-- [**Hyderabad House Price Prediction & Recommendation**](https://github.com/Pranay5519/H_real_estate)  
-  Scraped 99acres data, built **ML-powered predictor + recommender**, deployed on **Streamlit**.
+🔹 [**Issue Categorization**](https://github.com/Pranay5519/Issue-Categorization)  
+Multi-label classification for customer support. Applied **Label Powerset** + noise removal → boosted accuracy.
+
+🔹 [**Customer Churn Prediction**](https://github.com/Pranay5519/Customer-Churn-Prediction)  
+Balanced imbalanced data with **SMOTE**, compared ML models → optimized for **F1-score**.
+
+🔹 [**Hyderabad Real Estate AI**](https://github.com/Pranay5519/H_real_estate)  
+Scraped housing data, built **Price Prediction + Recommendation System** → deployed on **Streamlit**.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay5519&show_icons=true&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay5519&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🛠 Tech Stack
 
-<p align="left">
-<a href="https://twitter.com/gundupranay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pranay-gundu-226ba2228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://twitter.com/gundupranay" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pranay-gundu-226ba2228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+## ⚡ Fun Touch  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay5519&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">✨ Building AI one commit at a time ✨</p>

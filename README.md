@@ -9,10 +9,6 @@
 <h3 align="center">Data Science • Machine Learning • NLP • LLMs</h3>
 ## 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ## 🧠 About Me  
@@ -36,6 +32,10 @@ Scraped housing data, built **Price Prediction + Recommendation System** → dep
 
 ---
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=tokyonight&hide_border=true" />
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">

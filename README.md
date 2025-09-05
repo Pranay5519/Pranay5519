@@ -7,7 +7,12 @@
 
 <h1 align="center">🤖 Hey, I'm <span style="color:#00f5ff;">Pranay Gundu</span></h1>
 <h3 align="center">Data Science • Machine Learning • NLP • LLMs</h3>
+## 📊 GitHub Stats & Streak
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🧠 About Me  

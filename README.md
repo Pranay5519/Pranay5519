@@ -7,7 +7,6 @@
 
 <h1 align="center">🤖 Hey, I'm <span style="color:#00f5ff;">Pranay Gundu</span></h1>
 <h3 align="center">Data Science • Machine Learning • NLP • LLMs</h3>
-## 📊 GitHub Stats & Streak
 
 ---
 
@@ -19,7 +18,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 🔹 [**Issue Categorization**](https://github.com/Pranay5519/Issue-Categorization)  
 Multi-label classification for customer support. Applied **Label Powerset** + noise removal → boosted accuracy.
@@ -32,27 +31,20 @@ Scraped housing data, built **Price Prediction + Recommendation System** → dep
 
 ---
 
+## 📊 GitHub Stats & Streak  
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=tokyonight&hide_border=true" />
 </p>
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay5519&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay5519&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,mysql,git,github,vscode,linux" />
@@ -60,7 +52,7 @@ Scraped housing data, built **Price Prediction + Recommendation System** → dep
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://twitter.com/gundupranay" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

@@ -1,32 +1,55 @@
 <h1 align="center">Hi 👋, I'm Pranay Gundu</h1>
-<h3 align="center">Data Science & AI / Machine Learning | Natural Language Processing (NLP) & Large Language Model's (LLM's)</h3>
+<h3 align="center">Data Science & AI | Machine Learning | NLP | LLMs</h3>
 
-<h2>Projects</h2>
+---
 
-- [**Issue-Categorization**](https://github.com/Pranay5519/Issue-Categorization)
-  
-  Improved customer support with multi-label classification for efficient issue categorization. Utilized Label Powerset to   
-  handle multiple labels, applied noise removal for data cleaning. Conducted EDA for insights, enhancing model selection,      and significantly boosting accuracy and efficiency in issue categorization
- 
-- [**Customer Churn Prediction**](https://github.com/Pranay5519/Customer-Churn-Prediction) 
+## 🚀 Projects
 
-  Implemented SMOTE for class imbalance, utilized Random Forest, Lasso, permutation, and Gradient Boosting for feature     
-  selection. Trained diverse ML models (decision trees, Logistic Regression, ensemble methods), selected top performer based   on F1 score, optimized hyperparameters for superior predictions.
+- [**Issue-Categorization**](https://github.com/Pranay5519/Issue-Categorization)  
+  Multi-label classification for customer support. Used **Label Powerset**, noise removal, and EDA for better accuracy.
 
-- [**Hyderabad House Price Prediction and Recommendation**](https://github.com/Pranay5519/H_real_estate)
+- [**Customer Churn Prediction**](https://github.com/Pranay5519/Customer-Churn-Prediction)  
+  Applied **SMOTE** for imbalance, tested Random Forest, Logistic Regression & ensemble methods. Optimized with F1 score.
 
-  Led a comprehensive data collection and data science project focused on Hyderabad house prices on 99acres  Developed a      Streamlit web app featuring a machine learning-based Price Predictor, Analytics section, and a Recommendation System  
-  The all-in-one tool provides a powerful solution for real estate data analysis and informed decisionmaking in the     
-  Hyderabad housing market
+- [**Hyderabad House Price Prediction & Recommendation**](https://github.com/Pranay5519/H_real_estate)  
+  Scraped 99acres data, built **ML-powered predictor + recommender**, deployed on **Streamlit**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gundupranay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gundupranay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranay-gundu-226ba2228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranay-gundu-226ba2228/" height="30" width="40" /></a>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay5519&show_icons=true&theme=radical" alt="stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay5519&theme=radical" alt="streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay5519&show_icons=true&locale=en&layout=compact" alt="pranay5519" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay5519&show_icons=true&layout=compact&theme=radical" alt="languages" />
+</p>
 
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://twitter.com/gundupranay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranay-gundu-226ba2228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+</p>
